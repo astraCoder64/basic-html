@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: rgb(1, 183, 255);
+  font-size: 5em;
+}
